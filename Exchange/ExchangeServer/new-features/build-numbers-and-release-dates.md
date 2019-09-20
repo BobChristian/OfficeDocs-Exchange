@@ -57,8 +57,8 @@ Get-ExchangeServer | Format-List Name,Edition,AdminDisplayVersion
 |:-----|:-----|:-----|:-----|
 |[Exchange Server 2016 CU14](https://www.microsoft.com/download/details.aspx?id=100302)|September 17, 2019|15.1.1847.3|15.01.1847.003|
 |[Exchange Server 2016 CU13](https://www.microsoft.com/download/details.aspx?id=58395)|June 18, 2019|15.1.1779.2|15.01.1779.002|
-|[Exchange Server 2016 CU12]|February 12, 2019|15.1.1713.5|15.01.1713.005|
-|[Exchange Server 2016 CU11]|October 16, 2018|15.1.1591.10|15.01.1591.010|
+|Exchange Server 2016 CU12|February 12, 2019|15.1.1713.5|15.01.1713.005|
+|Exchange Server 2016 CU11|October 16, 2018|15.1.1591.10|15.01.1591.010|
 |Exchange Server 2016 CU10|June 19, 2018|15.1.1531.3|15.01.1531.003|
 |Exchange Server 2016 CU9|March 20, 2018|15.1.1466.3|15.01.1466.003|
 |Exchange Server 2016 CU8|December 19, 2017|15.1.1415.2|15.01.1415.002|
